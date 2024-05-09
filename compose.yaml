@@ -35,4 +35,4 @@ services:
       - 27017:27017
 
 #volumes:
-  #database:
+  #database:docker compose up -d
